@@ -10077,7 +10077,7 @@ hr.light {
   }
   #mainNav.navbar-scrolled {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #00BFFF;
+    background-color: rgba(255, 255, 128, .5);
   }
   #mainNav.navbar-scrolled .navbar-brand {
     color: #212529;
