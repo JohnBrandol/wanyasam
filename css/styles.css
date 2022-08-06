@@ -347,6 +347,9 @@ output {
 summary {
   display: list-item;
   cursor: pointer;
+  border-radius: 20 20 20 20;
+  border-color: #040505;
+
 }
 
 template {
@@ -10033,7 +10036,7 @@ hr.light {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #fff;
+  background-color: rgba(117, 190, 218, 0.5);
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
