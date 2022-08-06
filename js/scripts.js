@@ -4,6 +4,13 @@
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-creative/blob/master/LICENSE)
     */
     (function($) {
+
+      function mandazap(elemento) {
+        let texto = elemento.firstElementChild.innerText;
+        let numero = prompt("Qual é o número?");
+        let linkzap = `http://api.whatsapp.com/send?phone=55${numero}&text=${texto}`;
+        window.open(linkzap); }
+        
   "use strict"; // Start of use strict
 
   // Smooth scrolling using jQuery easing
