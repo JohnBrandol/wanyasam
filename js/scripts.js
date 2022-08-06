@@ -10,7 +10,7 @@
         let numero = prompt("Qual é o número?");
         let linkzap = `http://api.whatsapp.com/send?phone=55${numero}&text=${texto}`;
         window.open(linkzap); }
-        
+
   "use strict"; // Start of use strict
 
   // Smooth scrolling using jQuery easing
@@ -60,7 +60,7 @@
     gallery: {
       enabled: true,
       navigateByImgClick: true,
-      preload: [0, 1]
+      preload: [0, 1, 2 , 3, 4, 5, 6, 7, 8, 9]
     },
     image: {
       tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
