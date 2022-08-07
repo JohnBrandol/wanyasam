@@ -10036,7 +10036,7 @@ hr.light {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: rgba(117, 190, 218, 0.5);
+  background-color: rgba(117, 190, 218, 0.2);
   transition: background-color 0.2s ease;
 }
 #mainNav .navbar-brand {
@@ -10169,7 +10169,7 @@ header.masthead h1 {
   color: rgba(255, 255, 255, 0.75);
 }
 
-.img-rede-socia {
+.img {
   
   cursor: pointer;
   box-shadow: #000;
