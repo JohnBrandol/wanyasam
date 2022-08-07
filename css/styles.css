@@ -10175,4 +10175,9 @@ header.masthead h1 {
   box-shadow: #000;
   border-radius: 20px;
   border-color: #007bff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-items: center;
+  transition: 0,3;
+  
 }
