@@ -10177,7 +10177,7 @@ header.masthead h1 {
   border-color: #007bff;
   display: flex;
   flex-wrap: wrap;
-  justify-items: center;
+  justify-content: space-between;
   transition: 0,3;
-  
+
 }
