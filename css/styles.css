@@ -10174,10 +10174,7 @@ header.masthead h1 {
   cursor: pointer;
   box-shadow: #000;
   border-radius: 20px;
-  border-color: #007bff;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  transition: 0,3;
-
+  transition: 0,5;
+  border-color: red;
+  align-items: baseline;
 }
