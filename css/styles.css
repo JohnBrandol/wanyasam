@@ -10195,3 +10195,10 @@ header.masthead h1 {
   perspective-origin: 0% 50%;
   perspective: 300px;
 }
+
+.festa {
+
+  height: 8em;
+  border-radius: 1em;
+
+}
