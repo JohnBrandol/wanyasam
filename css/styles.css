@@ -6098,7 +6098,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: rgb(0,255,42,0.3) !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10099,8 +10099,7 @@ hr.light {
 }
 .img-corp{
 
-  color: #000;
-  height: 1px 1px;
+
 }
 
 header.masthead {
@@ -10183,4 +10182,16 @@ header.masthead h1 {
   transition: 0,5;
   border-color: red;
   align-items: baseline;
+}
+
+.lado {
+
+  transform: rotateY(15deg);
+
+}
+
+.parent {
+
+  perspective-origin: 0% 50%;
+  perspective: 300px;
 }
