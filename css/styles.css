@@ -10097,6 +10097,11 @@ hr.light {
     color: #000;
   }
 }
+.img-corp{
+
+  color: #000;
+  height: 1px 1px;
+}
 
 header.masthead {
   padding-top: 10rem;
